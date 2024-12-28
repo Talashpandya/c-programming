@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "java programming",
+			"path": "../../java programming"
+		},
+		{
+			"name": "c programming",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

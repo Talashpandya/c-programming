@@ -1,0 +1,17 @@
+{
+    "java.configuration.runtimes": [ 
+      {
+        "name": "JavaSE-23",
+        "path": "path-to-your-JDK-23"
+      }
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.format.enabled": true,
+    "java.codeGeneration.hashCodeEquals.useInstanceof": true,
+    "java.codeGeneration.hashCodeEquals.useNull": true,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.format.settings.profile": "GoogleStyle",
+    "java.format.settings.url": "https://google.github.io/styleguide/javaguide.html"
+  }
+  
